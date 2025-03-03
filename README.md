@@ -1,2 +1,2 @@
 # cct470.github.io
-click the link below
+Download the html file to see the two graphs
